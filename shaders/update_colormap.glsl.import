@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c6y8sjffl1mqr"
+path="res://.godot/imported/update_colormap.glsl-924239885042fbe776771fc8ea69ebca.res"
+
+[deps]
+
+source_file="res://shaders/update_colormap.glsl"
+dest_files=["res://.godot/imported/update_colormap.glsl-924239885042fbe776771fc8ea69ebca.res"]
+
+[params]
+

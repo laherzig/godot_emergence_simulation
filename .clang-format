@@ -1,0 +1,4 @@
+---
+# For GLSL files
+BasedOnStyle: LLVM
+IndentWidth: 4

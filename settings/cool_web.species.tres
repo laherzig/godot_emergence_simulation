@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="Species" load_steps=2 format=3 uid="uid://bbpo0cyhmtk6t"]
+
+[ext_resource type="Script" path="res://settings/Species.cs" id="1_xsutm"]
+
+[resource]
+script = ExtResource("1_xsutm")
+MoveSpeed = 40.0
+TurnSpeed = 1.5
+SensorAngle = 0.79
+SensorDistance = 20.0
+SensorSize = 4.0
+Color = Color(1, 0, 1, 1)

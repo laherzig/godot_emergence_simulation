@@ -1,0 +1,23 @@
+[gd_resource type="Resource" script_class="Settings" load_steps=4 format=3 uid="uid://dqamn30vvewha"]
+
+[ext_resource type="Script" path="res://settings/Species.cs" id="2_8emud"]
+[ext_resource type="Script" path="res://settings/Settings.cs" id="2_u2ne0"]
+
+[sub_resource type="Resource" id="Resource_5qomf"]
+script = ExtResource("2_8emud")
+MoveSpeed = 40.0
+TurnSpeed = 1.0
+SensorAngle = 0.79
+SensorDistance = 15.0
+SensorSize = 4.0
+Color = Color(1, 1, 1, 1)
+
+[resource]
+script = ExtResource("2_u2ne0")
+MapSize = Vector2i(1920, 1080)
+NumAgents = 65536
+DecaySpeed = 0.12
+DiffuseSpeed = 10.0
+TrailWeight = 10.0
+AgentBehavior = 0
+Species = [SubResource("Resource_5qomf")]

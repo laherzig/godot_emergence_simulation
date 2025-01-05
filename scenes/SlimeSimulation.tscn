@@ -1,0 +1,15 @@
+[gd_scene load_steps=3 format=3 uid="uid://dscffpwc0j6uu"]
+
+[ext_resource type="Script" path="res://scripts/SlimeSimulation.cs" id="1_2meix"]
+[ext_resource type="Resource" uid="uid://dqamn30vvewha" path="res://settings/cool_web.tres" id="2_s23xy"]
+
+[node name="SlimeSimulation" type="Node2D"]
+script = ExtResource("1_2meix")
+Settings = ExtResource("2_s23xy")
+
+[node name="Background" type="TextureRect" parent="."]
+expand_mode = 1
+
+[node name="TextureRect" type="TextureRect" parent="."]
+expand_mode = 1
+stretch_mode = 4

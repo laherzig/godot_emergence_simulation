@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://gwtp44hbnhvm"
+path="res://.godot/imported/diffuse_texture.glsl-8c9372cac6c9162f6f80dac22810affd.res"
+
+[deps]
+
+source_file="res://shaders/diffuse_texture.glsl"
+dest_files=["res://.godot/imported/diffuse_texture.glsl-8c9372cac6c9162f6f80dac22810affd.res"]
+
+[params]
+
