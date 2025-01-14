@@ -19,5 +19,5 @@ NumAgents = 65536
 DecaySpeed = 0.12
 DiffuseSpeed = 10.0
 TrailWeight = 10.0
-AgentBehavior = 0
+AgentBehavior = 3
 Species = [SubResource("Resource_5qomf")]
